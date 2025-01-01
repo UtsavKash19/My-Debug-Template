@@ -1,0 +1,22 @@
+{
+	"My Template": {
+		"prefix": "wow",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;",
+			"",
+			"#ifndef ONLINE_JUDGE",
+			"#include \"template.cpp\"",
+			"#else",
+			"#define debug(...)",
+			"#define debugArr(...)",
+			"#endif",
+			"",
+			"signed main()",
+			"{",
+			"    $0",
+			"}"
+		],
+		"description": "My Template"
+	}
+}
