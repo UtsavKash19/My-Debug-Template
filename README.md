@@ -24,7 +24,7 @@ debug(mat);
 ~~~~~
 ]
 ```
-This template supports datatypes such as:
+This template supports the datatypes such as:
 
 - Primitive Datatypes: `int`, `char`, `bool`, `long long int` etc.
 - STL: `pair`, `tuple`, `vector`, `set`, `oset`, `map`, `omap`,`stack`, `queue`, `priority_queue`, `bitset` etc.
