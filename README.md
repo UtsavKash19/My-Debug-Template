@@ -26,7 +26,7 @@ debug(mat);
 ```
 This template supports datatypes such as:
 
-- Primitive: `int`, `char`, `bool`, `long long int` etc.
+- Primitive Datatypes: `int`, `char`, `bool`, `long long int` etc.
 - STL: `pair`, `tuple`, `vector`, `set`, `oset`, `map`, `omap`,`stack`, `queue`, `priority_queue`, `bitset` etc.
 - Arrays of all datatypes: `int arr[]`, `bool arr[]`, `vector<int> adj[]` etc.
 - Matrix: `int dp[100][200]`, `vector<vector<bool>> vis(100, vector<bool> (200, 0))` etc.
